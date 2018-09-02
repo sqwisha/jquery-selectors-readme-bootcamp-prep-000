@@ -14,7 +14,7 @@ function ninjaBabySelector() {
 }
 
 function divSelector() {
-  var picsDivs = $('div .pics');
+  var picsDivs = $('.pics');
   return picsDivs;
 }
 
