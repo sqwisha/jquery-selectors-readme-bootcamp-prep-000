@@ -12,3 +12,12 @@ function ninjaBabySelector() {
   var ninjaBaby = $('#baby-ninja');
   return ninjaBaby;
 }
+
+function divSelector() {
+  var picsDivs = $('div .pics');
+  return picsDivs;
+}
+
+function firstListItem() {
+  
+}
